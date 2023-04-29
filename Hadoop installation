@@ -112,7 +112,7 @@ nano hdfs-site.xml
 </configuration>
 
 hadoop classpath
-/home/ubuntu/Desktop/trialrun/softwares/hadoop-3.3.4/etc/hadoop:/home/srividya/Desktop//softwares/hadoop-3.3.4/share/hadoop/common/lib/*:/home/ubuntu/Desktop/course/softwares/hadoop-3.3.4/share/hadoop/common/*:/home/srividya/Desktop/trialrun/softwares/hadoop-3.3.4/share/hadoop/hdfs:/home/srividya/Desktop/trialrun/softwares/hadoop-3.3.4/share/hadoop/hdfs/lib/*:/home/srividya/Desktop/trialrun/softwares/hadoop-3.3.4/share/hadoop/hdfs/*:/home/srividya/Desktop/trialrun/softwares/hadoop-3.3.4/share/hadoop/mapreduce/*:/home/srividya/Desktop/trialrun/softwares/hadoop-3.3.4/share/hadoop/yarn:/home/srividya/Desktop/trialrun/softwares/hadoop-3.3.4/share/hadoop/yarn/lib/*:/home/srividya/Desktop/trialrun/softwares/hadoop-3.3.4/share/hadoop/yarn/*
+/home/ubuntu/Desktop/course/softwares/hadoop-3.3.4/etc/hadoop:/home/ubuntu/Desktop//softwares/hadoop-3.3.4/share/hadoop/common/lib/*:/home/ubuntu/Desktop/course/softwares/hadoop-3.3.4/share/hadoop/common/*:/home/ubuntu/Desktop/course/softwares/hadoop-3.3.4/share/hadoop/hdfs:/home/ubuntu/Desktop/course/softwares/hadoop-3.3.4/share/hadoop/hdfs/lib/*:/home/ubuntu/Desktop/course/softwares/hadoop-3.3.4/share/hadoop/hdfs/*:/home/ubuntu/Desktop/course/softwares/hadoop-3.3.4/share/hadoop/mapreduce/*:/home/ubuntu/Desktop/course/softwares/hadoop-3.3.4/share/hadoop/yarn:/home/ubuntu/Desktop/course/softwares/hadoop-3.3.4/share/hadoop/yarn/lib/*:/home/ubuntu/Desktop/course/softwares/hadoop-3.3.4/share/hadoop/yarn/*
 
 nano yarn-site.xml
 <configuration>
